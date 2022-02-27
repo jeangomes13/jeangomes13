@@ -33,8 +33,8 @@
 </div>
 <div style="display: inline_block"><br>
   <h2>👨🏽‍💻Tecnologias</h2>
-  <p>Abaixo uma lista das tecnologias/softwares que uso ou já usei para desenvolver meus projetos tanto pessoais, como projetos educacionais.<p>
-  <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <p>Abaixo uma lista das tecnologias/softwares que uso ou já usei para desenvolver meus projetos pessoais e projetos da faculdade</p>
+    <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Jean-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jean-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -49,8 +49,7 @@
   <img align="center" alt="Jean-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Jean-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Jean-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-</div>
- <div>
+  </divv>
    <h2>🤳🏽Meus Contatos</h2>
   <a href = "mailto:sjean7681@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/jean-gomes-99027b173" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -6,7 +6,6 @@
   <li>Ler, e aprender coisas novas</li>
   <li>Manter hábitos saudáveis</li>
   <li>Prática atividades físicas</li>
-  <li>Melhorar minhas dificuldades</li>
 </ul>
 <h2>💻Tecnologias que uso/estudo</h2>
 <p>Diariamente utilizo essa tecnologias para desenvolver meus projetos e exercícios</p>

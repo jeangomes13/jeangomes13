@@ -16,7 +16,7 @@
   <a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
 </div>
 
-<h2>📚Tecnologias que pretento estudar📚</h2>
+<h2>📚Tecnologias que pretendo estudar📚</h2>
 <p>Pretendo Estudar essas tecnologias com o tempo</p>
 <div>
   <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>

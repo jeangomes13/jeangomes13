@@ -1,13 +1,13 @@
-<h1>🧔🏽💻 Olá, eu sou Jean Gomes! <img src="https://www.gifs-animados.net/mundo/universo004.gif"></h1>
+<h1>👨🏽‍💻Olá, eu sou Jean Gomes! <img src="https://www.gifs-animados.net/mundo/universo004.gif"></h1>
 <p>Sou estudante de Análises e Desenvolvimento de Software na Faculdade Senac-DF, e estou buscando sempre evoluir meus conhecimentos, evoluindo dia após dia sei que vou alcançar meus objetivos.</p>
-<h2>🏁Meus Desafios Diários</h2>
+<h2>🏁Meus Desafios Diários💪🏽</h2>
 <ul>
   <li>Acordar cedo todos os dias</li>
   <li>Ler, e aprender coisas novas</li>
   <li>Manter hábitos saudáveis</li>
   <li>Prática atividades físicas</li>
 </ul>
-<h2>💻Tecnologias que uso/estudo</h2>
+<h2>💻Tecnologias que uso/estudo💻</h2>
 <p>Diariamente utilizo essa tecnologias para desenvolver meus projetos e exercícios</p>
 <div>
   <a target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
   <a target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
 </div>
 
-<h2>📚Tecnologias que pretento estudar</h2>
+<h2>📚Tecnologias que pretento estudar📚</h2>
 <p>Pretendo Estudar essas tecnologias com o tempo</p>
 <div>
   <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
@@ -31,7 +31,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeangomes13&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <h2>👨🏽‍💻Tecnologias</h2>
+  <h2>👨🏽‍💻Tecnologias👨🏽‍💻</h2>
   <p>Abaixo uma lista das tecnologias/softwares que uso ou já usei para desenvolver meus projetos pessoais e projetos da faculdade</p>
     <img align="center" alt="Jean-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Jean-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">

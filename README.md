@@ -1,5 +1,5 @@
-<h1>👨🏽‍💻Olá, eu sou Jean Gomes! <img src="https://www.gifs-animados.net/mundo/universo004.gif"></h1>
-<p>Sou estudante de Análises e Desenvolvimento de Software na Faculdade Senac-DF, e estou buscando sempre evoluir meus conhecimentos, evoluindo dia após dia sei que vou alcançar meus objetivos.</p>
+<h1>👨🏽‍💻Olá, eu sou Jean Gomes! Um Desenvolvedor Front-End <img src="https://www.gifs-animados.net/mundo/universo004.gif"></h1>
+<p>Formado em Análises e Desenvolvimento de Sistemas na Faculdade Senac-DF, e estou buscando sempre evoluir meus conhecimentos, evoluindo dia após dia sei que vou alcançar meus objetivos.</p>
 <h2>🏁Meus Desafios Diários💪🏽</h2>
 <ul>
   <li>Acordar cedo todos os dias</li>
